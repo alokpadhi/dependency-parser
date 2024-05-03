@@ -12,7 +12,7 @@ torch == 1.4.0
 
 # run.py: 16
 # utils/parser_utils.py: 16
-tqdm == 4.31.1
+tqdm == 4.66.3
 
 # run.py: 19
 utils == 1.0.0
